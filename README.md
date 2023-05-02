@@ -2,8 +2,8 @@
 understand git processes as a key issue since it is used as a tool for collaboration 
 understanding work cycle and requirements
 ## ***steps**
-## understanding the user requirment and instructions
-## coding the requirements 
+# understanding the user requirment and instructions
+coding the requirements 
 ## running tests before pushing to github
 ## updating the common repository
 ## coraborate with other members of the team 
